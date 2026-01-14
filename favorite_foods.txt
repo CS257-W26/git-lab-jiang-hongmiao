@@ -1,3 +1,5 @@
 beef
 chicken
 ice cream
+hotpot
+BBQ
